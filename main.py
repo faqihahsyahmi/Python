@@ -18,7 +18,7 @@ print('''
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ''')
 
-print("Welcome to BVM")
+print("Welcome to Bev Vending Machine")
 print("This vending machine only accepts note: 1 - 5 - 10 - 20 - 50 - 100")
 
 cart = [] # purchase > 1
@@ -79,7 +79,7 @@ print(f"\nYou have entered RM{money}\n")
 # purchase more than one
 while True:
   # User input
-  choice = input("Enter product number or '0' to quit: ")
+  choice = input("Enter product number (between 1 - 10) or '0' to quit: ")
 
   if choice == '0':
     break
