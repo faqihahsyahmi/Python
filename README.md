@@ -18,5 +18,8 @@ Unachievable Outcome:
 
 * One of the objective is to give the least amount of note back to the user/customer. [X]
 
+Visit this link to try running the program directly:
+Replit Workspace: https://replit.com/@faqihahsyahmi00/VendingMachine
+
 ### Flow Chart of the program
 ![VendingMachineFC](https://github.com/faqihahsyahmi/VendingMachine/assets/147043513/c8b6aa34-8911-44ac-b614-5c38ac12d5d0)
