@@ -12,3 +12,10 @@ This is a simple vending machine program that allows you to purchase more than o
 * Payment Method: User however can only pay using note, coins not allowed.
 * Change Calculation: Change will be return to user if the payment is less than total price of selected items.
 * Press '0' to exit the system
+
+
+Unachievable Outcome:
+
+* One of the objective is to give the least amount of note back to the user/customer. [X]
+
+### Flow Chart of the program
